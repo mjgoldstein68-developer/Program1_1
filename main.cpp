@@ -9,7 +9,7 @@ int main() {
     cin >>hours;
     cout <<"What do you make an hour?"<<endl;
     cin >>rate;
-    pay= hours *rate;
+    pay= hours * rate;
     cout <<"For "<<hours<< "worked at "<<rate<< " and hour your pay is :" <<pay;
 
 
